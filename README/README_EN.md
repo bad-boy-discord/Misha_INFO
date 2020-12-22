@@ -1,4 +1,5 @@
 <img src="../assets/MishaDesign.png" alt="banner" />
+
 **Misha - Bot that was rewritten and now can write in 2 languages: English and Russian.**
 
 ## Disclamer!
