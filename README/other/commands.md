@@ -21,3 +21,4 @@
 - ~~Music~~
 - Settings
 - Moderation
+- Bot Events
