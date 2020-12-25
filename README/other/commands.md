@@ -2,13 +2,15 @@
 
 ## Bot Commands
 
-|  Settings  |  Bot Owner  |  Moderation  |  Music  |  Other   |
-|:-----------|:-----------:|:------------:|:-------:|:--------:|
-|            |     eval    |              |   play  | botinfo  |
-|            |  leftguild  |              |         | docs     |
-|            |             |              |         | help     |
-|            |             |              |         | newyear  |
-|            |             |              |         | npm      |
-|            |             |              |         |serverinfo|
-|            |             |              |         | userinfo |
-|            |             |              |         | weather  |
+|  Settings  |  Bot Owner  |  Moderation  |  Music   |  Other   |
+|:-----------|:-----------:|:------------:|:--------:|:--------:|
+|            |     eval    |              |  play    | botinfo  |
+|            |  leftguild  |              |nowplaying| docs     |
+|            |             |              |  queue   | help     |
+|            |             |              |  stop    | newyear  |
+|            |             |              |  loop    | npm      |
+|            |             |              |  pause   |serverinfo|
+|            |             |              |  resume  | userinfo |
+|            |             |              |          | weather  |
+|            |             |              |          |          |
+|            |             |              |          |          |
