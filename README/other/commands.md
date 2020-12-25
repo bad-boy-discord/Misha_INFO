@@ -11,6 +11,13 @@
 |            |             |              |  loop    | npm      |
 |            |             |              |  pause   |serverinfo|
 |            |             |              |  resume  | userinfo |
-|            |             |              |          | weather  |
+|            |             |              |  skip    | weather  |
+|            |             |              |  volume  |          |
 |            |             |              |          |          |
-|            |             |              |          |          |
+
+## TODO
+- ~~Other~~
+- ~~Bot Owner~~
+- ~~Music~~
+- Settings
+- Moderation
