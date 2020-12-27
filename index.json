@@ -1,4 +1,8 @@
 {
   "version": "1.0.0 | Stable",
-  "changelog": []
+  "changelog": [
+    "• Test change",
+    "",
+    "• Тест"
+  ]
 }
