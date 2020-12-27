@@ -1,8 +1,8 @@
 {
   "version": "1.0.0 | Stable",
   "changelog": [
-    "• Test change",
+    "• **Test change**",
     "",
-    "• Тест"
+    "• **Тест**"
   ]
 }
