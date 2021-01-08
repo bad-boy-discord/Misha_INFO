@@ -2,23 +2,23 @@
 
 ## Bot Commands
 
-|  Settings  |  Bot Owner  |  Moderation  |  Music   |  Other   |
-|:-----------|:-----------:|:------------:|:--------:|:--------:|
-|            |     eval    |              |  play    | botinfo  |
-|            |  leftguild  |              |nowplaying| docs     |
-|            |             |              |  queue   | help     |
-|            |             |              |  stop    | newyear  |
-|            |             |              |  loop    | npm      |
-|            |             |              |  pause   |serverinfo|
-|            |             |              |  resume  | userinfo |
-|            |             |              |  skip    | weather  |
-|            |             |              |  volume  |          |
-|            |             |              |          |          |
+|   Settings   |  Bot Owner  |  Moderation  |  Music   |  Other   |
+|:-------------|:-----------:|:------------:|:--------:|:--------:|
+| byechannel   |    eval     |     ban      |  play    | botinfo  |
+| config       |  leftguild  |     clear    |nowplaying| docs     |
+| language     |  blacklist  |     kick     |  queue   | help     |
+| logchannel   |   reload    |     mute     |  stop    | newyear  |
+| muterole     |sendchangelog|     say      |  loop    | npm      |
+| newschannel  |             |     tempmute |  pause   |serverinfo|
+|welcomechannel|             |     unmute   |  resume  | userinfo |
+|              |             |              |  skip    | weather  |
+|              |             |              |  volume  |          |
+|              |             |              |          |          |
 
 ## TODO
 - ~~Other~~
 - ~~Bot Owner~~
 - ~~Music~~
-- Settings
-- Moderation
+- Settings (Partially/Частично)
+- ~~Moderation~~
 - Bot Events
