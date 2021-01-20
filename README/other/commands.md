@@ -11,7 +11,7 @@
 | muterole     |sendchangelog|     say      |  loop    | npm      |
 | newschannel  |             |     tempmute |  pause   |serverinfo|
 |welcomechannel|             |     unmute   |  resume  | userinfo |
-|              |             |              |  skip    | weather  |
+| prefix       |             |              |  skip    | weather  |
 |              |             |              |  volume  |          |
 |              |             |              |          |          |
 
@@ -19,6 +19,8 @@
 - ~~Other~~
 - ~~Bot Owner~~
 - ~~Music~~
-- Settings (Partially/Частично)
+- ~~Settings~~
 - ~~Moderation~~
 - Bot Events
+
+**Commands**: **40**!
