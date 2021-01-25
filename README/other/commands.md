@@ -21,6 +21,6 @@
 - ~~Music~~
 - ~~Settings~~
 - ~~Moderation~~
-- Bot Events
+- ~~Bot Events~~
 
 **Commands**: **40**!
