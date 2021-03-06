@@ -23,4 +23,4 @@
 - ~~Moderation~~
 - ~~Bot Events~~
 
-**Commands**: **40**!
+**Commands**: **42**!
